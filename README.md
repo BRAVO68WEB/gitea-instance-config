@@ -1,4 +1,4 @@
-![Transparent background gitdab logo]()
+![Transparent background logo](public/img/favicon.svg)
 
 # Bravo's Git
 
